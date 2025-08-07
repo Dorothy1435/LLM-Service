@@ -1,0 +1,11 @@
+{
+  "min_credit": 130,
+  "min_major_credit": 60,
+  "required_courses": [
+    "AI개론",
+    "캡스톤디자인",
+    "기초통계",
+    "딥러닝",
+    "데이터베이스"
+  ]
+}

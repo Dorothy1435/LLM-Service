@@ -1,0 +1,37 @@
+/* Analyst.css */
+
+.analyst-container {
+  padding: 40px;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.analyst-section {
+  margin-bottom: 60px;
+}
+
+.analyst-title {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.analyst-input {
+  width: 60%;
+  padding: 10px;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.analyst-button {
+  margin-left: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+.analyst-answer {
+  margin-top: 30px;
+  font-size: 18px;
+  background: #f4f4f4;
+  padding: 20px;
+  border-radius: 8px;
+  white-space: pre-line;
+}
